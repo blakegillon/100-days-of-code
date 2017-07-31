@@ -16,5 +16,8 @@ Continued with freecodecamp front end cert from jQuery till the tribute page pro
 ### R1D4 July 29, Saturday 2017
 Started the second freecodecamp project which is the Portfolio website, struggled for a long time getting the bootstrap navbar to work how I wanted it to as when the page shrunk the text wrapped and the toggle function didn't work.
 
-### R1D4 July 30, Sunday 2017
+### R1D5 July 30, Sunday 2017
 Continued working on the Portfolio project, it is somewhat done just needs the navbar text wrapping and toggle function to be fixed.
+
+### R1D6 July 31, Monday 2017
+worked on front end cert up until queues
