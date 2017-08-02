@@ -21,3 +21,9 @@ Continued working on the Portfolio project, it is somewhat done just needs the n
 
 ### R1D6 July 31, Monday 2017
 worked on front end cert up until queues
+
+### R1D7 Aug 1, Tuesday 2017
+continued working on front end cert Javascript
+
+### R1D8 Aug 2, Wednesday 2017
+finished JS in front end cert
