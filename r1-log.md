@@ -27,3 +27,6 @@ continued working on front end cert Javascript
 
 ### R1D8 Aug 2, Wednesday 2017
 finished JS in front end cert
+
+### R1D9 Aug 3, Thursday 2017
+finished Object Orientated Programming in front end cert and started on basic algorithms up until factorializing a number. Completed the "Recursion in JavaScript" Codecademy excercises to retain the knowledge (hopefully).
