@@ -33,3 +33,6 @@ finished Object Orientated Programming in front end cert and started on basic al
 
 ### R1D10 Aug 4, Friday 2017
 worked on Codecademy recursion excercises up until Arrays.
+
+### R1D11 Aug 5, Saturday 2017
+continued working on algorithms
