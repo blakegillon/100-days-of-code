@@ -36,3 +36,6 @@ worked on Codecademy recursion excercises up until Arrays.
 
 ### R1D11 Aug 5, Saturday 2017
 continued working on algorithms
+
+### R1D12 Aug 6, Sunday 2017
+continued working on algoriths, many stress wow
