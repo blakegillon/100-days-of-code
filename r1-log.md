@@ -42,3 +42,6 @@ continued working on algorithms, many stress wow
 
 ### R1D13 Aug 7, Monday 2017
 finished off basic algorithms.
+
+### R1D14 Aug 8, Tuesday 2017
+finished the random quote generator project and started the local weather app project
