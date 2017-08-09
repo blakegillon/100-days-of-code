@@ -45,3 +45,6 @@ finished off basic algorithms.
 
 ### R1D14 Aug 8, Tuesday 2017
 finished the random quote generator project and started the local weather app project
+
+### R1D15 Aug 9, Wednesday 2017
+worked on the local weather app project, messing around with IP-API, OpenWeatherMap API, JSON etc.
