@@ -48,3 +48,6 @@ finished the random quote generator project and started the local weather app pr
 
 ### R1D15 Aug 9, Wednesday 2017
 worked on the local weather app project, messing around with IP-API, OpenWeatherMap API, JSON etc.
+
+### R1D15 Aug 10, Thursday 2017
+played around with FizzBuzz a bit/watched JS Videos and went and talked to a developer at a local company
