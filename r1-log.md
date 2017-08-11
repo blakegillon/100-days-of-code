@@ -51,3 +51,6 @@ worked on the local weather app project, messing around with IP-API, OpenWeather
 
 ### R1D15 Aug 10, Thursday 2017
 played around with FizzBuzz a bit/watched JS Videos and went and talked to a developer at a local company
+
+### R1D16 Aug 11, Friday 2017
+finished weather app project 
