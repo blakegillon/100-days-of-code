@@ -54,3 +54,6 @@ played around with FizzBuzz a bit/watched JS Videos and went and talked to a dev
 
 ### R1D16 Aug 11, Friday 2017
 finished weather app project 
+
+### R1D17 Aug 12, Saturday 2017
+worked on some algorithms
