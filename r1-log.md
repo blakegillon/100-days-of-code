@@ -57,3 +57,6 @@ finished weather app project
 
 ### R1D17 Aug 12, Saturday 2017
 worked on some algorithms
+
+### R1D18 Aug 13, Sunday 2017
+started JavaScriptIsSexy for a change of pace (w1)
