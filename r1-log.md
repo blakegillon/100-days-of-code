@@ -62,4 +62,4 @@ worked on some algorithms
 started JavaScriptIsSexy for a change of pace (w1)
 
 ### R1D19 Aug 14, Monday 2017
-read and worked through chapter 1 and some of 2 in Beginning JavaScript.
+read and worked through chapter 1 and up until chapter 2 fahrenheit to centigrade in Beginning JavaScript.
