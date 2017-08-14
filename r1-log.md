@@ -60,3 +60,6 @@ worked on some algorithms
 
 ### R1D18 Aug 13, Sunday 2017
 started JavaScriptIsSexy for a change of pace (w1)
+
+### R1D19 Aug 14, Monday 2017
+read and worked through chapter 1 and some of 2 in Beginning JavaScript.
