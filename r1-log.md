@@ -63,3 +63,6 @@ started JavaScriptIsSexy for a change of pace (w1)
 
 ### R1D19 Aug 14, Monday 2017
 read and worked through chapter 1 and up until chapter 2 fahrenheit to centigrade in Beginning JavaScript.
+
+### R1D20 Aug 15, Tuesday 2017
+finished Beginning Javascript chapter 2 and took notes - will do the summary questions tomororw.
