@@ -66,3 +66,6 @@ read and worked through chapter 1 and up until chapter 2 fahrenheit to centigrad
 
 ### R1D20 Aug 15, Tuesday 2017
 finished Beginning Javascript chapter 2 and took notes - will do the summary questions tomororw.
+
+### R1D20 Aug 16, Wednesday 2017
+worked on Beginning JavaScript up until else and else if statements
