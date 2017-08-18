@@ -2,6 +2,8 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 26, Wednesday, 2017].
 
+### Will be missing around 3 weeks in early November as I'm going overseas and have no laptop currently :'(
+
 ## Log
 
 ### R1D1 July 26, Wednesday 2017
