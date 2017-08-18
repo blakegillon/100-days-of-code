@@ -73,5 +73,5 @@ worked on Beginning JavaScript up until else and else if statements
 ### R1D21 Aug 17, Thursday 2017
 worked on beginning JavaScript chapter 3 
 
-### R1d22 Aug 18, Friday 2017
+### R1D22 Aug 18, Friday 2017
 worked on beginning javascript chapter 3 summary questions and codecademy JavaScript as per JavaScriptIsSexy
