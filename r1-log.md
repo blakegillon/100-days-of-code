@@ -77,3 +77,9 @@ worked on beginning JavaScript chapter 3
 
 ### R1D22 Aug 18, Friday 2017
 worked on beginning javascript chapter 3 summary questions and codecademy JavaScript as per JavaScriptIsSexy
+
+### R1D23 Aug 19, Saturday 2017
+worked on codecademy loops
+
+### R1D23 Aug 20, Sunday 2017
+finished codecademy loops and control flow and started Beginning JavaScript Chapter 18 - Common Mistakes, Debugging, and Error Handling
