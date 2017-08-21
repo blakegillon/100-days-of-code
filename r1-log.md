@@ -83,3 +83,6 @@ worked on codecademy loops
 
 ### R1D23 Aug 20, Sunday 2017
 finished codecademy loops and control flow and started Beginning JavaScript Chapter 18 - Common Mistakes, Debugging, and Error Handling
+
+### R1D24 Aug 21, Monday 2017
+complete chapter 18 for chrome and started chapter 5 - JavaScript - an object-based language
