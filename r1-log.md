@@ -85,4 +85,4 @@ worked on codecademy loops
 finished codecademy loops and control flow and started Beginning JavaScript Chapter 18 - Common Mistakes, Debugging, and Error Handling
 
 ### R1D24 Aug 21, Monday 2017
-complete chapter 18 for chrome and started chapter 5 - JavaScript - an object-based language
+complete chapter 18 for chrome and started chapter 5 - JavaScript - an object-based language up to fromCharAt()
