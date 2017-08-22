@@ -86,3 +86,6 @@ finished codecademy loops and control flow and started Beginning JavaScript Chap
 
 ### R1D24 Aug 21, Monday 2017
 complete chapter 18 for chrome and started chapter 5 - JavaScript - an object-based language up to fromCharAt()
+
+### R1D25 Aug 22, Tuesday 2017
+chapter 5 up to Math 
