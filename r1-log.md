@@ -89,3 +89,9 @@ complete chapter 18 for chrome and started chapter 5 - JavaScript - an object-ba
 
 ### R1D25 Aug 22, Tuesday 2017
 chapter 5 up to Math 
+
+### R1D26 Aug 23, Wednesday 2017
+continued working on objects
+
+### R1D27 Aug 24, Thursday 2017
+worked on objects up until creating your own custom objects
