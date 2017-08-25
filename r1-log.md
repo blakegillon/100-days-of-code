@@ -95,3 +95,6 @@ continued working on objects
 
 ### R1D27 Aug 24, Thursday 2017
 worked on objects up until creating your own custom objects
+
+### R1D28 Aug 25, Friday 2017
+finished chapter 5 apart from the excercises
