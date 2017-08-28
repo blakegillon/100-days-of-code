@@ -98,3 +98,12 @@ worked on objects up until creating your own custom objects
 
 ### R1D28 Aug 25, Friday 2017
 finished chapter 5 apart from the excercises
+
+### R1D29 Aug 26, Saturday 2017
+finished chapter 5 excercises
+
+### R1D30 Aug 27, Sunday 2017
+completed http://javascriptissexy.com/javascript-objects-in-detail/
+
+### R1D31 Aug 28, Monday 2017
+completed http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/ and started Codecademy Data Structures, Objects 1 and Objects 2.
