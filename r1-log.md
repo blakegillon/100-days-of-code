@@ -107,3 +107,6 @@ completed http://javascriptissexy.com/javascript-objects-in-detail/
 
 ### R1D31 Aug 28, Monday 2017
 completed http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/ and finished Codecademy Data Structures, Objects 1 and started Objects 2. (part = literally speaking)
+
+### R1D32 Aug 29, Tuesday 2017
+finished Objects II - next session = Beginning JavaScript chapter 6.
