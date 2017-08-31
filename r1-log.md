@@ -113,3 +113,6 @@ finished Objects II - next session = Beginning JavaScript chapter 8.
 
 ### R1D33 Aug 30, Wednesday 2017
 finished Beginning JavaScript chapter 8 - Programming the browser (BOM)
+
+### R1D34 Aug 31, Thursday 2017
+Started Beginning JavaScript chapter 16 - jQuery
