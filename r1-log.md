@@ -116,3 +116,6 @@ finished Beginning JavaScript chapter 8 - Programming the browser (BOM)
 
 ### R1D34 Aug 31, Thursday 2017
 Started Beginning JavaScript chapter 16 - jQuery up to Toggling classes
+
+### R1D35 01 Sept, Friday 2017
+Finished chapter 16 and started Codecademy jQuery
