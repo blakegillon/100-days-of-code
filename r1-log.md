@@ -119,3 +119,6 @@ Started Beginning JavaScript chapter 16 - jQuery up to Toggling classes
 
 ### R1D35 01 Sept, Friday 2017
 Finished chapter 16 and started Codecademy jQuery
+
+### R1D36 02 Sept, Saturday 2017
+Started Beginning JavaScript chapter 11 HTML Forms: Interacting with the User up to "The Password text box"
