@@ -122,3 +122,6 @@ Finished chapter 16 and started Codecademy jQuery
 
 ### R1D36 02 Sept, Saturday 2017
 Started Beginning JavaScript chapter 11 HTML Forms: Interacting with the User up to "The Password text box"
+
+### R1D37 03 Sept, Sunday 2017
+Chapter 11 until adding and removing options
