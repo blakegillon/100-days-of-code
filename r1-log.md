@@ -125,3 +125,6 @@ Started Beginning JavaScript chapter 11 HTML Forms: Interacting with the User up
 
 ### R1D37 03 Sept, Sunday 2017
 Chapter 11 until adding and removing options
+
+### R1D38 04 Sept, Monday 2017
+messed with a to do list and worked on beginning js
