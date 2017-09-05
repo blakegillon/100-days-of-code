@@ -128,3 +128,6 @@ Chapter 11 until adding and removing options
 
 ### R1D38 04 Sept, Monday 2017
 messed with a to do list and worked on beginning js
+
+### R1D39 05 Sept, Tuesday 2017
+finished chapter 11 summary, onto the summary questions
