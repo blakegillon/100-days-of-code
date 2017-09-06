@@ -131,3 +131,6 @@ messed with a to do list and worked on beginning js
 
 ### R1D39 05 Sept, Tuesday 2017
 finished chapter 11 summary, onto the summary questions
+
+### R1D40 06 Sept, Wednesday 2017
+finished chapter 11 summary questions, chapter 6 string manipulation tomorrow
