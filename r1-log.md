@@ -134,3 +134,6 @@ finished chapter 11 summary, onto the summary questions
 
 ### R1D40 06 Sept, Wednesday 2017
 finished chapter 11 summary questions, chapter 6 string manipulation tomorrow
+
+### R1D41 07 Sept, Thursday 2017
+finished chapter 6 string manipulation
