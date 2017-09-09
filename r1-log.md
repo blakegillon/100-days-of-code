@@ -137,3 +137,9 @@ finished chapter 11 summary questions, chapter 6 string manipulation tomorrow
 
 ### R1D41 07 Sept, Thursday 2017
 finished chapter 6 string manipulation
+
+### R1D42 08 Sept, Friday 2017
+studied notes from beginning JS
+
+### R1D43 09 Sept, Saturday 2017
+completed Codecademy - make an interactive website track as per Javascriptissexy
