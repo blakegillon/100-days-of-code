@@ -143,3 +143,6 @@ studied notes from beginning JS
 
 ### R1D43 09 Sept, Saturday 2017
 completed Codecademy - make an interactive website track as per Javascriptissexy
+
+### R1D44 10 Sept, Sunday 2017
+Completed CodeCademy - Learn SASS/SCSS
