@@ -146,3 +146,9 @@ completed Codecademy - make an interactive website track as per Javascriptissexy
 
 ### R1D44 10 Sept, Sunday 2017
 Completed CodeCademy - Learn SASS/SCSS
+
+### R1D45 11 Sept, Monday 2017
+Chapter 7 Beginning JS
+
+### R1D46 12 Sept, Tuesday 2017
+Chapter 7 Beginning JS up to summary questions
