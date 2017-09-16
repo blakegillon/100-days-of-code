@@ -152,3 +152,15 @@ Chapter 7 Beginning JS
 
 ### R1D46 12 Sept, Tuesday 2017
 Chapter 7 Beginning JS up to summary questions
+
+### R1D47 13 Sept, Wednesday 2017
+Chapter 7 Beginning JS summary questions
+
+### R1D48 14 Sept, Thursday 2017
+Beginning JS Data storage
+
+### R1D49 15 Sept, Friday 2017
+Beginning JS Data storage
+
+### R1D50 16 Sept, Saturday 2017
+Beginning JS Data storage up to "Getting a cookies value"
