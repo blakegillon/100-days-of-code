@@ -164,3 +164,6 @@ Beginning JS Data storage
 
 ### R1D50 16 Sept, Saturday 2017
 Beginning JS Data storage up to "Getting a cookies value"
+
+### R1D51 25 Sept, Monday 2017
+Have unfortunately taken a break from coding due to stuff going on in my life but will continue learning through Colt Steeles Web Developer Bootcamp coures on Udemy as a change of pace. Decided to start right from the even though its basic stuff I already know and am currently on Intermediate HTML.
