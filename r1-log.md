@@ -170,3 +170,6 @@ Have unfortunately taken a break from coding due to stuff going on in my life bu
 
 ### R1D52 26 Sept, Tuesday 2017
 Web Dev bootcamp up until intermediate HTML Form excercise.
+
+### R1D53 27 Sept, Wednesday 2017
+finished intermediate HTML and moved onto CSS 
