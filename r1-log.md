@@ -173,3 +173,15 @@ Web Dev bootcamp up until intermediate HTML Form excercise.
 
 ### R1D53 27 Sept, Wednesday 2017
 finished intermediate HTML and moved onto CSS 
+
+### R1D54 28 Sept, Thursday 2017
+web dev bootcamp
+
+### R1D55 29 Sept, Friday 2017
+web dev bootcamp
+
+### R1D56 30 Sept, Saturday 2017
+web dev bootcamp
+
+### R1D57 1 Oct, Sunday 2017
+web dev bootcamp up to tic tac toe
