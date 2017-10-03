@@ -187,4 +187,7 @@ web dev bootcamp
 web dev bootcamp up to tic tac toe
 
 ### R1D58 2 Oct, Monday 2017
-web dev bootcamp up to boostrap - the grid system
+web dev bootcamp up to bootstrap - the grid system
+
+### R1D59 3 Oct, Tuesday 2017
+completed bootstrap, onto JavaScript.
