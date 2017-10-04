@@ -191,3 +191,6 @@ web dev bootcamp up to bootstrap - the grid system
 
 ### R1D59 3 Oct, Tuesday 2017
 completed bootstrap, onto JavaScript.
+
+### R1D60 4 Oct, Wednesday 2017
+started JS up to conditions, memorised Truthy vs Falsey values in JS
