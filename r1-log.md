@@ -194,3 +194,6 @@ completed bootstrap, onto JavaScript.
 
 ### R1D60 4 Oct, Wednesday 2017
 started JS up to conditions, memorised Truthy vs Falsey values in JS
+
+### R1D61 5 Oct, Thursday 2017
+Completed While loops, onto For loops
