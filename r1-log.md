@@ -197,3 +197,6 @@ started JS up to conditions, memorised Truthy vs Falsey values in JS
 
 ### R1D61 5 Oct, Thursday 2017
 Completed While loops, onto For loops
+
+### R1D62 6 Oct, Friday 2017
+Completed for loops and functions and moved onto Arrays 
