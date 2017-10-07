@@ -200,3 +200,6 @@ Completed While loops, onto For loops
 
 ### R1D62 6 Oct, Friday 2017
 Completed for loops and functions and moved onto Arrays 
+
+### R1D63 7 Oct, Saturday 2017
+Finished arrays and creating an array method and will start Objects tomorow.
