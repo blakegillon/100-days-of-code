@@ -203,3 +203,6 @@ Completed for loops and functions and moved onto Arrays
 
 ### R1D63 7 Oct, Saturday 2017
 Finished arrays and creating an array method and will start Objects tomorow.
+
+### R1D64 8 Oct, Sunday 2017
+Finished Objects and started DOM Manipulation.
