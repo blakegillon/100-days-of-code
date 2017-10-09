@@ -206,3 +206,6 @@ Finished arrays and creating an array method and will start Objects tomorow.
 
 ### R1D64 8 Oct, Sunday 2017
 Finished Objects and started DOM Manipulation.
+
+### R1D65 9 Oct, Monday 2017
+Advanced DOM manipulation up until counting events excercise
