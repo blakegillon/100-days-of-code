@@ -209,3 +209,6 @@ Finished Objects and started DOM Manipulation.
 
 ### R1D65 9 Oct, Monday 2017
 Advanced DOM manipulation up until counting events excercise
+
+### R1D66 10 Oct, Tuesday 2017
+Finished Advanced DOM Manipulation and The Great Color Game, next is jQuery.
