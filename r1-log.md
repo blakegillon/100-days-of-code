@@ -215,3 +215,6 @@ Finished Advanced DOM Manipulation and The Great Color Game, next is jQuery.
 
 ### R1D67 11 Oct, Wednesday 2017
 Started jQuery
+
+### R1D68 12 Oct, Thursday 2017
+More jQuery
