@@ -218,3 +218,6 @@ Started jQuery
 
 ### R1D68 12 Oct, Thursday 2017
 More jQuery
+
+### R1D69 13 Oct, Friday 2017
+developed a simple todo list app in solely jQuery, will conver to vanilla JS for practice tomorrow
