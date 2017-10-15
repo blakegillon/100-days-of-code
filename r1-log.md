@@ -224,3 +224,6 @@ developed a simple todo list app in solely jQuery, will conver to vanilla JS for
 
 ### R1D70 14 Oct, Saturday 2017
 played around with Paper.js and Howler.js to create a webapp that plays a sound file and generates an animated shape in a random location on keypress
+
+### R1D71 15 Oct, Sunday 2017
+converted jQuery todo app to Vanilla JS - learn alot about creating and appending elements in vanilla JS and dynamically assigning event listeners to elements
