@@ -227,3 +227,9 @@ played around with Paper.js and Howler.js to create a webapp that plays a sound 
 
 ### R1D71 15 Oct, Sunday 2017
 converted jQuery todo app to Vanilla JS - learn alot about creating and appending elements in vanilla JS and dynamically assigning event listeners to elements
+
+### R1D72 16 Oct, Monday 2017
+learnt about basic backend dev 
+
+### R1D73 17 Oct, Tuesday 2017
+backend dev and command line practice
