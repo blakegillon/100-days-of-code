@@ -233,3 +233,9 @@ learnt about basic backend dev
 
 ### R1D73 17 Oct, Tuesday 2017
 backend dev and command line practice
+
+### R1D74 18 Oct, Wednesday 2017
+Node.JS and cli 
+
+### R1D75 19 Oct, Thursday 2017
+Node.JS, NPM - faker/cat-me
