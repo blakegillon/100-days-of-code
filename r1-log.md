@@ -239,3 +239,6 @@ Node.JS and cli
 
 ### R1D75 19 Oct, Thursday 2017
 Node.JS, NPM - faker/cat-me
+
+### R1D76 20 Oct, Friday 2017
+Node.JS practice, first basic express app - learnt some basic ejs
