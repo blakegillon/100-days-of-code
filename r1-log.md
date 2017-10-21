@@ -242,3 +242,6 @@ Node.JS, NPM - faker/cat-me
 
 ### R1D76 20 Oct, Friday 2017
 Node.JS practice, first basic express app - learnt some basic ejs
+
+### R1D77 21 Oct, Saturday 2017
+POST requests, JSON, APIs
