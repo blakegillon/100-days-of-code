@@ -245,3 +245,6 @@ Node.JS practice, first basic express app - learnt some basic ejs
 
 ### R1D77 21 Oct, Saturday 2017
 POST requests, JSON, APIs
+
+### R1D78 22 Oct, Sunday 2017
+Messed around with omdb API, search form view and a results view
