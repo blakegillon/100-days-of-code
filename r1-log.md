@@ -248,3 +248,6 @@ POST requests, JSON, APIs
 
 ### R1D78 22 Oct, Sunday 2017
 Messed around with omdb API, search form view and a results view
+
+### R1D79 23 Oct, Monday 2017
+Started working on the YelpCamp project. Set up and worked with MongoDB for that first time
