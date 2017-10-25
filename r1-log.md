@@ -254,3 +254,6 @@ Started working on the YelpCamp project. Set up and worked with MongoDB/Mongoose
 
 ### R1D80 24 Oct, Tuesday 2017
 RESTful study.
+
+### R1D81 25 Oct, Wednesday 2017
+Started a RESTful blog app to practice RESTful routing.
