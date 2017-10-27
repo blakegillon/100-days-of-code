@@ -257,3 +257,9 @@ RESTful study.
 
 ### R1D81 25 Oct, Wednesday 2017
 Started a RESTful blog app to practice RESTful routing.
+
+### R1D82 26 Oct, Thursday 2017
+RESTful update/delete
+
+### R1D83 27 Oct, Friday 2017
+embedded/reference data associations
