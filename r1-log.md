@@ -263,3 +263,9 @@ RESTful update/delete
 
 ### R1D83 27 Oct, Friday 2017
 embedded/reference data associations
+
+### R1D84 28 Oct, Saturday 2017
+module/exports - seeding database
+
+### R1D85 29 Oct, Sunday 2017
+comment new/create routes
