@@ -269,3 +269,6 @@ module/exports - seeding database
 
 ### R1D85 29 Oct, Sunday 2017
 comment new/create routes
+
+### R1D86 30 Oct, Monday 2017
+YelpCamp, Passport JS/Auth
