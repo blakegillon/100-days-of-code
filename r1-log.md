@@ -272,3 +272,12 @@ comment new/create routes
 
 ### R1D86 30 Oct, Monday 2017
 YelpCamp, Passport JS/Auth
+
+### R1D87 31 Oct, Tuesday 2017
+Auth
+
+### R1D88 1 November
+
+
+### 2 Nov - 21 Nov
+In Europe :D
