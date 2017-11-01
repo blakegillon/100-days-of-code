@@ -277,7 +277,7 @@ YelpCamp, Passport JS/Auth
 Auth
 
 ### R1D88 1 November
-
+Began adding auth to YelpCamp
 
 ### 2 Nov - 21 Nov
-In Europe :D
+In Europe :D - listening to Front End Happy Hour.
