@@ -280,4 +280,4 @@ Auth
 Began adding auth to YelpCamp
 
 ### 2 Nov - 21 Nov
-In Europe :D - listening to Front End Happy Hour.
+In Europe :D - listening to Front End Happy Hour/ and hopefully attending AngularConnect.
