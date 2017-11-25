@@ -281,3 +281,6 @@ Began adding auth to YelpCamp
 
 ### 2 Nov - 21 Nov
 In Europe :D - listening to Front End Happy Hour.
+
+### R1D89 25 Nov, Saturday 2017
+Began adding auth to YelpCamp
