@@ -287,3 +287,9 @@ Began adding auth to YelpCamp
 
 ### R1D90 26 Nov, Sunday 2017
 Finished adding basic auth to YelpCamp
+
+### R1D91 27 Nov, Monday 2017
+Refactoring routes
+
+### R1D92 28 Nov, Tuesday 2017
+Refactoring routes into seperate files and requiring them, associating username/id with comments
