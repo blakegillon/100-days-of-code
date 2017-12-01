@@ -293,3 +293,6 @@ Refactoring routes
 
 ### R1D92 28 Nov, Tuesday 2017
 Refactoring routes into seperate files and requiring them, associating username/id with comments
+
+### R1D93 01 Dec, Friday 2017
+CRUD campgrounds
