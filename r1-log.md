@@ -296,3 +296,6 @@ Refactoring routes into seperate files and requiring them, associating username/
 
 ### R1D93 01 Dec, Friday 2017
 CRUD campgrounds
+
+### R1D94 02 Dec, Saturday 2017
+CRUD campground comments, error handling, authorization, flash messagees for errors/alerts, refactoring middleware, and began refactoring landing page
