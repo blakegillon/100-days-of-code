@@ -307,4 +307,4 @@ UI improvements, added dynamic pricing and Google maps API location
 Added momentJS for campgrounds and comments, added an admin role to delete/edit other users campgrounds/comments and added user pages.
 
 ### R1D97 05 Dec, Tuesday 2017
-Password reset functionality added aswell as Fuzzy search - started image uploader with Cloudinary
+Password reset functionality added aswell as Fuzzy search - started image uploader with Cloudinary. TODO: Edit/update route for image upload
