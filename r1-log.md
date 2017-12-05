@@ -300,8 +300,11 @@ CRUD campgrounds
 ### R1D94 02 Dec, Saturday 2017
 CRUD campground comments, error handling, authorization, flash messagees for errors/alerts, refactoring middleware, and began refactoring landing page
 
-### R1D95 03, Dec, Sunday 2017
+### R1D95 03 Dec, Sunday 2017
 UI improvements, added dynamic pricing and Google maps API location
 
-### R1D96 04, Dec, Monday 2017
+### R1D96 04 Dec, Monday 2017
 Added momentJS for campgrounds and comments, added an admin role to delete/edit other users campgrounds/comments and added user pages.
+
+### R1D97 05 Dec, Tuesday 2017
+Password reset functionality added aswell as Fuzzy search
