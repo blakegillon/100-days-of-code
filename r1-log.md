@@ -308,3 +308,12 @@ Added momentJS for campgrounds and comments, added an admin role to delete/edit 
 
 ### R1D97 05 Dec, Tuesday 2017
 Password reset functionality added aswell as Fuzzy search - started image uploader with Cloudinary. TODO: Edit/update route for image upload
+
+### R1D98 06 Dec, Wednesday 2017
+Git
+
+### R1D99 07 Dec, Thursday 2017
+Git
+
+### R1D100 08 Dec, Friday 2017
+Git
