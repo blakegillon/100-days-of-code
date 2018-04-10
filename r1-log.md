@@ -317,3 +317,6 @@ Git
 
 ### R1D100 08 Dec, Friday 2017
 Git
+
+### R2D01 10 April, Tuesday 2018
+js30 day 1 - learning template literals - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
